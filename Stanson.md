@@ -1,2 +1,0 @@
-#npc
-[[Krispin (Axelle)]] brother
