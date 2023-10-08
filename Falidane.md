@@ -1,0 +1,2 @@
+#pc 
+race:half elf
